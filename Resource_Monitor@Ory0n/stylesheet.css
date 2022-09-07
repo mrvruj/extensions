@@ -1,20 +1,20 @@
 .wlanicon {
     margin: 1px 0px 0px 0px;
     padding: 0px 3px 0px 0px;
-    box-shadow: 0px 18px rgb(244, 184, 228);
+    box-shadow: 0px 14px rgb(244, 184, 228);
     color: rgb(244, 184, 228);
 }
 
 .wlanunit {
-    margin: 2px 5px 0px 0px;
+    margin: 1px 5px 0px 0px;
     padding: 0px 1px 0px 0px;
-    box-shadow: 0px 15px rgb(244, 184, 228);
+    box-shadow: 0px 13.5px rgb(244, 184, 228);
     color: rgb(244, 184, 228);
 }
 
 .wlanval {
-    margin: 2px 0px 0px 0px;
+    margin: 1px 0px 0px 0px;
     padding: 0px 2px 0px 0px;
-    box-shadow: 0px 15px rgb(244, 184, 228);
+    box-shadow: 0px 13.5px rgb(244, 184, 228);
     color: rgb(244, 184, 228);
 }

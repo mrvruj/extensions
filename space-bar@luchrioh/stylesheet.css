@@ -50,7 +50,7 @@
 
 .space-bar-workspace-label {
     border: solid transparent 0px;
-    padding-top: 2.5px;
+    padding-top: 1px;
     padding-bottom: 0px;
     margin-left: 2px;
     margin-right: 6px;
@@ -59,11 +59,11 @@
 
 .space-bar-workspace-label.active {
     border: solid transparent 0px;
-    padding-top: 2.5px;
+    padding-top: 1px;
     margin-left: 2px;
     margin-right: 6px;
     color: rgb(202, 158, 230);
-    box-shadow: 0px 17px rgb(202, 158, 230);
+    box-shadow: 0px 14px rgb(202, 158, 230);
 }
 
 .workspace-box.dragging .space-bar-workspace-label.inactive {
