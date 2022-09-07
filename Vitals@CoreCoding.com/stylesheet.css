@@ -1,0 +1,207 @@
+.vitals-icon { icon-size: 16px; }
+.vitals-menu-button-container {}
+
+/* gruvbox
+
+.vitals-panel-icon-system{ 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px; 
+    box-shadow: 0px 18px rgb(152, 151, 26);
+    color: rgb(152, 151, 26);
+}
+.vitals-panel-label-system {
+    margin: 1px 5px 0px 0px;
+    padding: 2.5px 1px 4px 5px; 
+    box-shadow: 0px 18px rgb(152, 151, 26);
+    color: rgb(152, 151, 26);
+}
+
+.vitals-panel-icon-temperature { 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px;
+    box-shadow: 0px 18px rgb(204, 36, 29);
+    color: rgb(204, 36, 29);
+}
+.vitals-panel-label-temperature { 
+    margin: 1px 5px 0px 0px; 
+    padding: 2.5px 1px 0px 2px;
+    box-shadow: 0px 18px rgb(204, 36, 29);
+    color: rgb(204, 36, 29);
+}
+
+.vitals-panel-icon-processor{ 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px;
+    box-shadow: 0px 18px rgb(104,157,106);
+    color: rgb(104,157,106 );
+}
+.vitals-panel-label-processor { 
+    margin: 1px 5px 0px 0px; 
+    padding: 2.5px 1px 0px 4px;
+    box-shadow: 0px 18px rgb(104,157,106);
+    color: rgb(104,157,106);
+}
+
+.vitals-panel-icon-memory { 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px; 
+    box-shadow: 0px 18px rgb(215, 153, 33);
+    color: rgb(215, 153, 33);
+}
+.vitals-panel-label-memory {
+    margin: 1px 5px 0px 0px; 
+    padding: 2.5px 1px 0px 3px;
+    box-shadow: 0px 18px rgb(215, 153, 33);
+    color: rgb(215, 153, 33);
+}
+
+.vitals-panel-icon-storage{ 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px; 
+    box-shadow: 0px 18px rgb(69, 133, 136);
+    color: rgb(69, 133, 136);
+}
+.vitals-panel-label-storage {
+    margin: 1px 5px 0px 0px; 
+    padding: 2.5px 1px 0px 3px;
+    box-shadow: 0px 18px rgb(69, 133, 136);
+    color: rgb(69, 133, 136);
+}
+
+.vitals-panel-icon-network { 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px; 
+    box-shadow: 0px 18px rgb(177, 98, 134);
+    color: rgb(177, 98, 134);
+}
+.vitals-panel-label-network {
+    margin: 1px 5px 0px 0px; 
+    padding: 2.5px 1px 0px 3px;
+    box-shadow: 0px 18px rgb(177, 98, 134);
+    color: rgb(177, 98, 134);
+}
+
+*/
+
+
+.vitals-panel-icon-system{ 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px; 
+    box-shadow: 0px 18px rgb(166, 209, 137);
+    color: rgb(166, 209, 137);
+}
+.vitals-panel-label-system {
+    margin: 1px 5px 0px 0px; 
+    padding: 2.5px 1px 4px 5px; 
+    box-shadow: 0px 18px rgb(166, 209, 137);
+    color: rgb(166, 209, 137);
+}
+
+.vitals-panel-icon-temperature { 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px;
+    box-shadow: 0px 18px rgb(231, 130, 132);
+    color: rgb(231, 130, 132);
+}
+.vitals-panel-label-temperature { 
+    margin: 1px 5px 0px 0px; 
+    padding: 2.5px 1px 0px 2px;
+    box-shadow: 0px 18px rgb(231, 130, 132);
+    color: rgb(231, 130, 132);
+}
+
+.vitals-panel-icon-processor{ 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px;
+    box-shadow: 0px 18px rgb(186, 187, 241);
+    color: rgb(186, 187, 241);
+}
+.vitals-panel-label-processor { 
+    margin: 1px 5px 0px 0px; 
+    padding: 2.5px 1px 0px 4px;
+    box-shadow: 0px 18px rgb(186, 187, 241);
+    color: rgb(186, 187, 241);
+}
+
+.vitals-panel-icon-memory { 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px; 
+    box-shadow: 0px 18px rgb(229, 200, 144);
+    color: rgb(229, 200, 144);
+}
+.vitals-panel-label-memory {
+    margin: 1px 5px 0px 0px; 
+    padding: 2.5px 1px 0px 3px;
+    box-shadow: 0px 18px rgb(229, 200, 144);
+    color: rgb(229, 200, 144);
+}
+
+.vitals-panel-icon-storage{ 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px; 
+    box-shadow: 0px 18px rgb(140, 170, 238);
+    color: rgb(140, 170, 238);
+}
+.vitals-panel-label-storage {
+    margin: 1px 5px 0px 0px; 
+    padding: 2.5px 1px 0px 3px;
+    box-shadow: 0px 18px rgb(140, 170, 238);
+    color: rgb(140, 170, 238);
+}
+
+.vitals-panel-icon-network { 
+    margin: 1px 0px 0px 0px; 
+    padding: 0px 0px 0px 1px; 
+    box-shadow: 0px 18px rgb(244, 184, 228);
+    color: rgb(244, 184, 228);
+}
+.vitals-panel-label-network {
+    margin: 1px 5px 0px 0px; 
+    padding: 2.5px 1px 0px 3px;
+    box-shadow: 0px 18px rgb(244, 184, 228);
+    color: rgb(244, 184, 228);
+}
+
+
+.vitals-panel-icon-voltage { margin: 0 0 0 8px; padding: 2px; }
+.vitals-panel-icon-fan { margin: 0 4px 0 8px; padding: 2px; }
+
+.vitals-panel-icon-battery { margin: 0 4px 0 8px; padding: 2px; }
+.vitals-panel-label { margin: 0 3px 0 0; padding: 2px; }
+.vitals-button-action { -st-icon-style: symbolic; border-radius: 32px; margin: 1px; min-height: 22px; min-width: 22px; padding: 20px; font-size: 100%; border: 1px solid transparent; }
+.vitals-button-action:hover, .vitals-button-action:focus { border-color: #777; }
+.vitals-button-action > StIcon { icon-size: 16px; }
+.vitals-button-box { padding: 2px; spacing: 22px; }
+
+/* Borders around label, solid icon
+      .vitals-panel-icon-temperature { 
+        margin: 1px 0px 0px 0px; 
+        padding: 0px 5px 0px 5px;
+        color: #1E1F29;
+        background-color: #E06C75;   
+    }
+    .vitals-panel-label-temperature { 
+        margin: 1px 0px 0px 0px; 
+        padding: 3px 5px 5px 5px;
+        background-color: #1E1F29;
+        color: #E06C75;
+        border-top: 2px solid #E06C75;
+        border-right: 2px solid #E06C75;
+        border-bottom: 2px solid #E06C75;
+    }
+    .vitals-panel-icon-processor { 
+        margin: 1px 0px 0px 0px; 
+        padding: 0px 5px 0px 5px; 
+        color: #1E1F29;
+        background-color: rgba(139, 243, 243, 0.85)
+    }
+    .vitals-panel-label-processor {
+        margin: 1px 0px 0px 0px; 
+        padding: 3px 5px 5px 5px;
+        background-color: #1E1F29;
+        color: rgba(139, 243, 243, 0.85);
+        border-top: 2px solid rgba(139, 243, 243, 0.85);
+        border-right: 2px solid rgba(139, 243, 243, 0.85);
+        border-bottom: 2px solid rgba(139, 243, 243, 0.85);
+    }
+*/

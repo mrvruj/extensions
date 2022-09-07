@@ -1,0 +1,8 @@
+@import url("custom.css");
+@import url("../../../../../.config/executor@raujonas.github.io/custom.css");
+
+.text {
+	color: rbga(0,0,0,0.5);
+	}
+
+/* This file will hold executor related css if needed someday*/

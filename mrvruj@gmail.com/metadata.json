@@ -1,0 +1,8 @@
+{
+  "name": "HideSysTrayIcons",
+  "description": "Hides volume and network indicators",
+  "uuid": "mrvruj@gmail.com",
+  "shell-version": [
+    "42"
+  ]
+}

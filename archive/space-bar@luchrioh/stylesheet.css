@@ -1,0 +1,89 @@
+/* .space-bar {
+    -natural-hpadding: 0;
+} */
+
+/*
+
+.space-bar-workspace-label {
+    border: solid transparent 0px;
+    padding-top: 2.5px;
+    padding-bottom: 0px;
+    margin-left: 2px; 
+    margin-right: 6px;
+    color: rgb(7, 102, 120);
+}
+
+.space-bar-workspace-label.active {
+    border: solid transparent 0px;
+    padding-top: 2.5px;
+    margin-left: 2px;
+    margin-right: 6px;
+    color: rgb(204, 36, 29);
+    box-shadow: 0px 17px rgb(204, 36, 29);
+}
+
+.workspace-box.dragging .space-bar-workspace-label.inactive {
+    background-color: rgb(0, 0, 0);
+    transition: margin-left 0.5s, margin-right 0.5s;
+}
+
+.space-bar-workspace-label.empty.inactive {
+    color: rgb(81, 87, 109);
+}
+
+
+.space-bar-menu .space-bar-menu-heading {
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: 700;
+    font-size: 9pt;
+}
+
+.space-bar-menu .popup-menu-ornament {
+    width: 0 !important;
+}
+*/
+
+ .space-bar {
+    -natural-hpadding: 0;
+} 
+
+.space-bar-workspace-label {
+    border: solid transparent 0px;
+    padding-top: 2.5px;
+    padding-bottom: 0px;
+    margin-left: 2px;
+    margin-right: 6px;
+    color: rgb(166, 209, 137);
+}
+
+.space-bar-workspace-label.active {
+    border: solid transparent 0px;
+    padding-top: 2.5px;
+    margin-left: 2px;
+    margin-right: 6px;
+    color: rgb(202, 158, 230);
+    box-shadow: 0px 17px rgb(202, 158, 230);
+}
+
+.workspace-box.dragging .space-bar-workspace-label.inactive {
+    background-color: rgb(0, 0, 0);
+    transition: margin-left 0.5s, margin-right 0.5s;
+}
+
+.space-bar-workspace-label.empty.inactive {
+    color: rgb(81, 87, 109);
+}
+
+
+.space-bar-menu .space-bar-menu-heading {
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: 700;
+    font-size: 9pt;
+}
+
+.space-bar-menu .popup-menu-ornament {
+    width: 0 !important;
+
+}
