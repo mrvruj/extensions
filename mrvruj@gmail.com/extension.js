@@ -22,6 +22,8 @@ const Main = imports.ui.main;
 
 class Extension {
     constructor() {
+        Main.panel.statusArea.aggregateMenu._network.indicators.hide();
+        Main.panel.statusArea.aggregateMenu._bluetooth.indicators.hide();
     }
 
     enable() {
@@ -30,8 +32,8 @@ class Extension {
     }
 
     disable() {
-        Main.panel.statusArea.aggregateMenu._network.indicators.show();
-        Main.panel.statusArea.aggregateMenu._bluetooth.indicators.show();
+        Main.panel.statusArea.aggregateMenu._network.indicators.hide();
+        Main.panel.statusArea.aggregateMenu._bluetooth.indicators.hide();
     }
 }
 
