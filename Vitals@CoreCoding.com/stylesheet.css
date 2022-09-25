@@ -100,26 +100,26 @@
 .vitals-panel-icon-temperature { 
     margin: 0px 0px 0px 0px; 
     padding: 0px 0px 0px 1px;
-    box-shadow: 0px 15px rgb(231, 130, 132);
+    box-shadow: 0px 15px rgb(231, 130, 132); 
     color: rgb(231, 130, 132);
 }
 .vitals-panel-label-temperature { 
     margin: 0px 5px 0px 0px; 
     padding: 2px 1px 0px 1.5px;
-    box-shadow: 0px 15px rgb(231, 130, 132);
+    box-shadow: 0px 15px rgb(231, 130, 132); 
     color: rgb(231, 130, 132);
 }
 
 .vitals-panel-icon-processor{ 
     margin: 0px 0px 0px 0px; 
     padding: 0px 0px 0px 1px;
-    box-shadow: 0px 15px rgb(186, 187, 241);
+    box-shadow: 0px 15px rgb(186, 187, 241); 
     color: rgb(186, 187, 241);
 }
 .vitals-panel-label-processor { 
     margin: 0px 5px 0px 0px; 
     padding: 2px 1px 0px 4px;
-    box-shadow: 0px 15px rgb(186, 187, 241);
+    box-shadow: 0px 15px rgb(186, 187, 241); 
     color: rgb(186, 187, 241);
 }
 
