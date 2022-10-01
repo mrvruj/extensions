@@ -60,8 +60,8 @@ function updateVolume() {
 		inputPercent = Math.round(volume / virtMax * 100);
 	}
 
-	outputPercent += '%';
-	inputPercent += '%';
+	outputPercent = ' ' + outputPercent + ' %';
+	inputPercent = ' ' + inputPercent + ' %';
 	if (!volumeIndicator._inputIndicator.visible) {
 		inputPercent = '';  // no idea how to handle this better
 	}
@@ -86,7 +86,7 @@ function enable() {
 	volumeIndicator.add(volumeIndicator._outputPercentageLabel);
 	volumeIndicator.set_child_at_index(volumeIndicator._outputPercentageLabel, 1);
 	volumeIndicator.add(volumeIndicator._inputPercentageLabel);
-	volumeIndicator.add_style_class_name('power-status');
+
 
 	updateVolume();
 	PRIMARY_SIGNAL_ID = volumeIndicator._volumeMenu._output.connect('stream-updated', updateVolume);

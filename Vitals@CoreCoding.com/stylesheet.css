@@ -87,78 +87,78 @@
 .vitals-panel-icon-system{ 
     margin: 0px 0px 0px 0px; 
     padding: 1px 0px 0px 1px; 
-    box-shadow: 0px 15px rgb(166, 209, 137);
+    box-shadow: 0px 15px rgba(166, 209, 137, 0);
     color: rgb(166, 209, 137);
 }
 .vitals-panel-label-system {
     margin: 0px 5px 0px 0px; 
     padding: 2px 1px 4px 5px; 
-    box-shadow: 0px 15px rgb(166, 209, 137);
+    box-shadow: 0px 15px rgba(166, 209, 137, 0);
     color: rgb(166, 209, 137);
 }
 
 .vitals-panel-icon-temperature { 
     margin: 0px 0px 0px 0px; 
     padding: 0px 0px 0px 1px;
-    box-shadow: 0px 15px rgb(231, 130, 132); 
+    box-shadow: 0px 15px rgba(231, 130, 132, 0); 
     color: rgb(231, 130, 132);
 }
 .vitals-panel-label-temperature { 
     margin: 0px 5px 0px 0px; 
     padding: 2px 1px 0px 1.5px;
-    box-shadow: 0px 15px rgb(231, 130, 132); 
+    box-shadow: 0px 15px rgba(231, 130, 132, 0); 
     color: rgb(231, 130, 132);
 }
 
 .vitals-panel-icon-processor{ 
     margin: 0px 0px 0px 0px; 
     padding: 0px 0px 0px 1px;
-    box-shadow: 0px 15px rgb(186, 187, 241); 
+    box-shadow: 0px 15px rgba(186, 187, 241, 0); 
     color: rgb(186, 187, 241);
 }
 .vitals-panel-label-processor { 
     margin: 0px 5px 0px 0px; 
     padding: 2px 1px 0px 4px;
-    box-shadow: 0px 15px rgb(186, 187, 241); 
+    box-shadow: 0px 15px rgba(186, 187, 241, 0); 
     color: rgb(186, 187, 241);
 }
 
 .vitals-panel-icon-memory { 
     margin: 0px 0px 0px 0px; 
     padding: 0px 0px 0px 1px; 
-    box-shadow: 0px 15px rgb(229, 200, 144);
+    box-shadow: 0px 15px rgba(229, 200, 144, 0);
     color: rgb(229, 200, 144);
 }
 .vitals-panel-label-memory {
     margin: 0px 5px 0px 0px; 
     padding: 2px 1px 0px 3px;
-    box-shadow: 0px 15px rgb(229, 200, 144);
+    box-shadow: 0px 15px rgba(229, 200, 144, 0);
     color: rgb(229, 200, 144);
 }
 
 .vitals-panel-icon-storage{ 
     margin: 0px 0px 0px 0px; 
     padding: 0px 0px 0px 1px; 
-    box-shadow: 0px 15px rgb(140, 170, 238);
+    box-shadow: 0px 15px rgba(140, 170, 238, 0);
     color: rgb(140, 170, 238);
 }
 .vitals-panel-label-storage {
     margin: 0px 5px 0px 0px; 
     padding: 2px 1px 0px 3px;
-    box-shadow: 0px 15px rgb(140, 170, 238);
+    box-shadow: 0px 15px rgba(140, 170, 238, 0);
     color: rgb(140, 170, 238);
 }
 
 .vitals-panel-icon-network { 
     margin: 0px 0px 0px 0px; 
     padding: 0px 0px 0px 1px; 
-    box-shadow: 0px 15px rgb(244, 184, 228);
+    box-shadow: 0px 15px rgba(244, 184, 228, 0);
     color: rgb(244, 184, 228);
 }
 .vitals-panel-label-network {
     margin: 0px 5px 0px 0px; 
     padding: 2px 1px 0px 3px;
-    box-shadow: 0px 15px rgb(244, 184, 228);
+    box-shadow: 0px 15px rgba(244, 184, 228, 0);
     color: rgb(244, 184, 228);
 }
 
