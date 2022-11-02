@@ -8,9 +8,10 @@
     "3.38",
     "40",
     "41",
-    "42"
+    "42",
+    "43"
   ],
   "url": "https://github.com/raujonas/executor",
   "uuid": "executor@raujonas.github.io",
-  "version": 19
+  "version": 20
 }

@@ -339,7 +339,7 @@ async function setOutput(location, index) {
     let executorSettingsArray = location.commandsOutput[index].match(executorRegex);
 
     location.output[index].set_text(location.commandsOutput[index]);
-    location.output[index].set_style_class_name("text");
+    location.output[index].set_style_class_name("");
 
     if (executorSettingsArray != null) {
         executorSettingsArray.forEach(setting => {
